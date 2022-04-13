@@ -1,0 +1,9 @@
+
+.edit svg:hover path{
+    fill: #83D97C ;
+    fill-opacity: 1;
+}
+.trash svg:hover path{
+    fill: #EF5350 ;
+    fill-opacity: 1;
+}
